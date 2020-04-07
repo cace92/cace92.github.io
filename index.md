@@ -1,7 +1,7 @@
 <style type="text/css">
 .map-bgd {
-  width: 1022px;
-  height: 968px;
+  width: 1460px;
+  height: 1384px;
   background-image: url('map_background.png');
   background-size:cover;
 }
