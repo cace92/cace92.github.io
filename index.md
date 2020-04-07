@@ -3,6 +3,7 @@
   background-image: url('map_background.png');
   width: 1460px;
   height: 1384px;
+  margin.auto;
   }
  </style>
 
