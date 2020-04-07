@@ -1,5 +1,5 @@
 <style type="text/css">
-  div.background-parent
+.background-parent
 {
   position: relative;
   width: 100%;
