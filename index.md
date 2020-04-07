@@ -3,7 +3,7 @@
 {
   position: relative;
   width: 100%;
-  height: 600px;
+  height: 100%;
 }
 .map-div {
   position: absolute;
