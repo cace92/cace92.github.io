@@ -6,7 +6,7 @@
   background-image: url('map_background.png');
 }
 </style>
-
+<body>
 <div class="map-bgd">
   
 <div class="map">
@@ -14,3 +14,4 @@
 </div>
 
 </div>
+</body>
