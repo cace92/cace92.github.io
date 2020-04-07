@@ -1,6 +1,6 @@
 <style type="text/css">
 .map-bgd {
-  position: absolute;
+  position: relative;
   width: 1460px;
   height: 1384px;
   background-image: url('map_background.png');
