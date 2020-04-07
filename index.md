@@ -1,12 +1,12 @@
 <style type="text/css">
 .map-bgd {
   position: absolute;
-  width: 100%;
-  height: 100%;
+  width: 1460px;
+  height: 1384px;
   background-image: url('map_background.png');
 }
 </style>
-<body>
+
 <div class="map-bgd">
   
 <div class="map">
@@ -14,4 +14,3 @@
 </div>
 
 </div>
-</body>
