@@ -1,22 +1,22 @@
 <style type="text/css">
-  body, html {
-    height: 100%;
-  }
-  .bg {
-  /* The image used */
-  background-image: url('map_background.png');
-
-  /* Full height */
+  div.background-parent
+{
+  position: relative;
+  width: 100%;
+  height: 600px;
+}
+.map-div {
+  position: absolute;
+  width: 100%;
   height: 100%;
-
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  }
+  background-image: url('map_background.png');
+}
 </style>
-<body>
+
+<div class="background-parent">
+  
 <div class="map-div">
 <iframe width="600px" height="600px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/it/map/caccia-al-tesoro_439547?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=true&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=undefined&captionBar=false&fullscreenControl=true&measureControl=false&locateControl=false&editinosmControl=false"></iframe>
 </div>
-<7body>
+
+</div>
