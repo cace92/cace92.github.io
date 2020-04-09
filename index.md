@@ -9,6 +9,7 @@
 
 <div class="map-bgd" align="center">
   <p><br><br><br><br><br><br></p>
-<iframe width="600px" height="600px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/it/map/caccia-al-tesoro_443097?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=false&onLoadPanel=undefined&captionBar=false#11/45.4686/11.0660"></iframe><p><a href="//umap.openstreetmap.fr/it/map/caccia-al-tesoro_443097">Visualizza a schermo intero</a></p>
+
+<iframe width="600px" height="600px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/it/map/caccia-al-tesoro_443097?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=false&onLoadPanel=undefined&captionBar=false"></iframe>
 
 </div>
